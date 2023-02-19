@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "🇫🇷Polynesie Française 🇵🇫"
-description:	       "Decouvre notre voyage dans la nature"
+title:		           "🇫🇷 Polynesie Française 🇵🇫"
+description:	       "Découvrez notre prochain voyage dans la nature vierge de la polynésie française"
 author:              "Luca & Margherita"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
